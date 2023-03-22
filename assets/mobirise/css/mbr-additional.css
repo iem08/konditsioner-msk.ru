@@ -1293,6 +1293,23 @@ a {
 .cid-tyete9ImGd .mbr-timeline-title {
   text-align: center;
 }
+.cid-tzh18RHVeG {
+  padding-top: 5rem;
+  padding-bottom: 5rem;
+  background-color: #ffffff;
+}
+.cid-tzh18RHVeG .mbr-fallback-image.disabled {
+  display: none;
+}
+.cid-tzh18RHVeG .mbr-fallback-image {
+  display: block;
+  background-size: cover;
+  background-position: center center;
+  width: 100%;
+  height: 100%;
+  position: absolute;
+  top: 0;
+}
 .cid-tzgXgF4kzg {
   padding-top: 60px;
   padding-bottom: 60px;
